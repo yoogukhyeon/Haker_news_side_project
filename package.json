@@ -1,0 +1,48 @@
+{
+  "devDependencies": {
+    "jsdoc-plugin-typescript": "^2.2.0",
+    "typescript": "^4.8.4"
+  },
+  "name": "practice",
+  "description": "javascript & typescript side project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "bluebird": "^3.7.2",
+    "catharsis": "^0.9.0",
+    "docdash": "^1.2.0",
+    "entities": "^2.1.0",
+    "escape-string-regexp": "^2.0.0",
+    "graceful-fs": "^4.2.10",
+    "js2xmlparser": "^4.0.2",
+    "klaw": "^3.0.0",
+    "linkify-it": "^3.0.3",
+    "lodash": "^4.17.21",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^8.6.5",
+    "marked": "^4.1.1",
+    "mdurl": "^1.0.1",
+    "mkdirp": "^1.0.4",
+    "requizzle": "^0.2.3",
+    "strip-json-comments": "^3.1.1",
+    "taffydb": "^2.6.2",
+    "uc.micro": "^1.0.6",
+    "underscore": "^1.13.6",
+    "xmlcreate": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoogukhyeon/Haker_news_side_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoogukhyeon/Haker_news_side_project/issues"
+  },
+  "homepage": "https://github.com/yoogukhyeon/Haker_news_side_project#readme"
+}
